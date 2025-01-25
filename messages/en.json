@@ -1,0 +1,18 @@
+{
+    "IntroSection": {
+        "hello_im": "Hi, my name is",
+        "name": "Hamza",
+        "short_intro": "I enjoy building things for the web.",
+        "download_cv": "Download CV",
+        "blog": "Blog"
+    },
+    "SectionName": {
+        "about": "About me",
+        "experience": "Experience",
+        "projects": "Projects",
+        "skills": "Skills"
+    },
+    "AboutSection": {
+        "desc": "During my undergraduate studies at the Governor House Institute, I have been honing my expertise in computer fundamentals, database principles, and software development. As a second-year student, I have developed a strong command over Next.js, TypeScript, .NET Core, and PHP, enabling me to build scalable, dynamic, and efficient applications 💻. My passion for programming challenges and collaborating on projects drives me to deliver innovative solutions and tackle complex problems with enthusiasm 🚀. Beyond academics, I enjoy learning about new technologies and dedicating time to exploring emerging trends in the tech world 🌐. Occasionally, I unwind by spending time with friends and enjoying outings 🎉.."
+    }
+}
