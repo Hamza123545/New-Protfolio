@@ -1,7 +1,7 @@
 import React from "react";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import marketplaceImage from "@/public/MarkeetPlace.png";
+import marketplaceImage from "@/public/markeetplace.png";
 import movieWebsiteImage from "@/public/movie.png";
 import staticCarWebsiteImage from "@/public/car2.png";
 import vehicleManagementSystemImage from "@/public//carweb.png";
